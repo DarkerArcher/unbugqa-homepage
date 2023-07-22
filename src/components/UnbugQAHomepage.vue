@@ -210,7 +210,7 @@
       <h2 class="text-h2 font-bold tracking-tighter text-text-neutral-900">
         Feature articles
       </h2>
-      <div class="blog flex flex-row items-start gap-8 text-left max-md:w-full max-md:flex-col max-md:items-center max-[500px]:flex-col max-[500px]:gap-14">
+      <div class="blog flex flex-row items-start gap-8 text-left max-w-[900px] max-md:w-full max-md:flex-col max-md:items-center max-[500px]:flex-col max-[500px]:gap-14">
         <div class="card flex flex-col items-start flex-[1_0_0%] rounded-xl bg-generic-white">
           <div class="article-image">
             <img src="../assets/article-image-1.png" alt="article image" class=" rounded-t-xl">
@@ -252,7 +252,7 @@
         </div>
       </div>
     </div>
-    <div class="guarantee flex order-6 p-[60px] rounded-[20px] bg-[#E9F2FF] w-[1000px] max-md:w-full max-[500px]:w-[90%] max-[500px]:flex-col max-[500px]:gap-4 max-[500px]:p-8">
+    <div class="guarantee flex order-6 p-[60px] rounded-[20px] bg-[#E9F2FF] w-[900px] max-md:w-full max-[500px]:w-[90%] max-[500px]:flex-col max-[500px]:gap-4 max-[500px]:p-8">
       <div
         class="guarantee-text flex flex-col justify-center items-start text-left gap-6 shrink-0 w-2/3 max-[500px]:items-center max-[500px]:w-full">
         <h4
@@ -272,7 +272,7 @@
         <img src="../assets/half-form.png" alt="image">
       </div>
     </div>
-    <div class="footer flex flex-row order-7 items-start justify-between gap-10 pt-16 w-[1000px] max-md:w-[800px] max-[500px]:flex-col max-[500px]:items-center">
+    <div class="footer flex flex-row order-7 items-start justify-between gap-10 pt-16 max-w-[800px] max-md:w-full max-[500px]:w-full max-[500px]:flex-col max-[500px]:items-center">
       <div class="flex flex-col gap-4 items-start w-[284px] max-[500px]:items-center">
         <div class="logo flex flex-row self-start gap-2 items-center max-[500px]:self-center">
           <img src="../assets/UnbugQA_logo.svg" alt="Unbug QA">
