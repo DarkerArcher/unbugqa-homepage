@@ -60,7 +60,7 @@
           </div>
         </div>
         <div class="options-image">
-          <img src="../assets/hire_qa_image.png" alt="image" class="w-11/12 max-[500px]:w-full">
+          <img src="../assets/hire_qa_image.png" alt="image" class="w-11/12 max-md:w-full max-[500px]:w-full">
         </div>
       </div>
       <div class="options-second flex flex-row justify-between max-[500px]:flex-col gap-5">
@@ -104,7 +104,7 @@
           </div>
         </div>
         <div class="options-image">
-          <img src="../assets/full-stack-testing.png" alt="image" class="w-11/12 max-[500px]:w-full">
+          <img src="../assets/full-stack-testing.png" alt="image" class="w-11/12 max-md:w-full max-[500px]:w-full">
         </div>
       </div>
       <div class="options-third flex flex-row justify-between max-[500px]:flex-col max-[500px]:gap-4">
@@ -147,7 +147,7 @@
           </div>
         </div>
         <div class="options-image">
-          <img src="../assets/user-testing.png" alt="image" class="w-11/12 max-[500px]:w-full">
+          <img src="../assets/user-testing.png" alt="image" class="w-11/12 max-md:w-full max-[500px]:w-full">
         </div>
       </div>
       <div class="options-fourth flex flex-row justify-between max-[500px]:flex-col max-[500px]:gap-4">
@@ -190,7 +190,7 @@
           </div>
         </div>
         <div class="options-image">
-          <img src="../assets/job-ready.png" alt="image" class="w-11/12 max-[500px]:w-full">
+          <img src="../assets/job-ready.png" alt="image" class="w-11/12 max-md:w-full max-[500px]:w-full">
         </div>
       </div>
     </div>
@@ -210,7 +210,7 @@
       <h2 class="text-h2 font-bold tracking-tighter text-text-neutral-900">
         Feature articles
       </h2>
-      <div class="blog flex flex-row items-start gap-8 text-left max-md:w-full max-[500px]:flex-col max-[500px]:gap-14">
+      <div class="blog flex flex-row items-start gap-8 text-left max-md:w-full max-md:flex-col max-md:items-center max-[500px]:flex-col max-[500px]:gap-14">
         <div class="card flex flex-col items-start flex-[1_0_0%] rounded-xl bg-generic-white">
           <div class="article-image">
             <img src="../assets/article-image-1.png" alt="article image" class=" rounded-t-xl">
