@@ -1,15 +1,14 @@
-<template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<template class="flex flex-col min-h-screen font-Inter bg-generic-white">
+  <UnbugQA />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import UnbugQA from './components/UnbugQAHomepage.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    UnbugQA
   }
 }
 </script>
